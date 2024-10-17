@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1729184273 source:e:\electronic\project\dz3c\dz3cb\main.c
+	<stdio.h>
+	<stdbool.h>
+	<conio.h>
+
